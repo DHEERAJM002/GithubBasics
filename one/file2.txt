@@ -1,1 +1,1 @@
-This is a text file for git tests.
+This is a text file2 for git tests.
